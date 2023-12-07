@@ -1,15 +1,101 @@
 {
   "result": [
-{"No":"1","Name":"Yuji Itadori","Age":"15","Birthday":"March 20th","Height":"173 cm","Grade":"1st Grade","Picture":"https:\/\/static.wikia.nocookie.net\/jujutsu-kaisen\/images\/7\/75\/Yuji_Itadori_%28SJ_2020-43%29.png\/revis"},
-{"No":"2","Name":"Megumi Fushiguro","Age":"15","Birthday":"December 22nd","Height":"175 cm","Grade":"2nd Grade","Picture":"https:\/\/static.wikia.nocookie.net\/jujutsu-kaisen\/images\/0\/08\/Megumi_Fushiguro.png\/revision\/latest\/sc"},
-{"No":"3","Name":"Nobara Kugisaki","Age":"16","Birthday":"August 7th","Height":"160 cm","Grade":"3rd Grade","Picture":"https:\/\/static.wikia.nocookie.net\/jujutsu-kaisen\/images\/7\/7a\/Nobara_Kugisaki.png\/revision\/latest\/sca"},
-{"No":"4","Name":"Satoru Gojo","Age":"28","Birthday":"December 7th","Height":"190 cm","Grade":"Special Grade","Picture":"https:\/\/static.wikia.nocookie.net\/jujutsu-kaisen\/images\/5\/53\/Satoru_Gojo_%28Full%29.png\/revision\/lat"},
-{"No":"5","Name":"Kento Nanami","Age":"28","Birthday":"July 3rd","Height":"184 cm","Grade":"1st Grade","Picture":"https:\/\/static.wikia.nocookie.net\/jujutsu-kaisen\/images\/9\/96\/Kento_Nanami_%28Volume_11%29.png\/revisi"},
-{"No":"6","Name":"Suguru Geto","Age":"27","Birthday":"February 3rd","Height":"190 cm","Grade":"Special Grade","Picture":"https:\/\/static.wikia.nocookie.net\/jujutsu-kaisen\/images\/6\/61\/Suguru_Geto.png\/revision\/latest\/scale-t"},
-{"No":"7","Name":"Yuta Okkotsu","Age":"17","Birthday":"March 7th","Height":"175 cm","Grade":"Special Grade","Picture":"https:\/\/static.wikia.nocookie.net\/jujutsu-kaisen\/images\/7\/79\/Yuta_Okkotsu_%28Chapter_137%29.png\/revi"},
-{"No":"8","Name":"Panda","Age":"16","Birthday":"March 5th","Height":"200 cm","Grade":"2nd Semi-Grade","Picture":"https:\/\/static.wikia.nocookie.net\/jujutsu-kaisen\/images\/2\/2b\/Panda_%28Anime_2%29.png\/revision\/latest"},
-{"No":"9","Name":"Sukuna","Age":"0","Birthday":"Unknown","Height":"173 cm","Grade":"Special Grade","Picture":"https:\/\/static.wikia.nocookie.net\/jujutsu-kaisen\/images\/8\/85\/Sukuna_%28Chapter_117%29.png\/revision\/l"},
-{"No":"10","Name":"Mahito","Age":"0","Birthday":"Unknown","Height":"179 cm","Grade":"Unregistered Cursed Special Grade","Picture":"https:\/\/static.wikia.nocookie.net\/jujutsu-kaisen\/images\/3\/3e\/Mahito.png\/revision\/latest\/scale-to-wid"},
-{"No":"11","Name":"Choso","Age":"0","Birthday":"Unknown","Height":"180 cm","Grade":"Unregistered Cursed Special Grade","Picture":"https:\/\/static.wikia.nocookie.net\/jujutsu-kaisen\/images\/4\/49\/Choso.png\/revision\/latest\/scale-to-widt"}
-]
+    {
+      "No":"1",
+      "Name":"Yuji Itadori",
+      "Age":"15",
+      "Birthday":"March 20th",
+      "Height":"173 cm",
+      "Grade":"1st Grade",
+      "Picture":"https://static.wikia.nocookie.net/jujutsu-kaisen/images/7/75/Yuji_Itadori_%28SJ_2020-43%29.png"},
+    {
+      "No":"2",
+      "Name":"Megumi Fushiguro",
+      "Age":"15",
+      "Birthday":"December 22nd",
+      "Height":"175 cm",
+      "Grade":"2nd Grade",
+      "Picture":"https://static.wikia.nocookie.net/jujutsu-kaisen/images/0/08/Megumi_Fushiguro.png"
+    },
+    {
+      "No":"3",
+      "Name":"Nobara Kugisaki",
+      "Age":"16",
+      "Birthday":"August 7th",
+      "Height":"160 cm",
+      "Grade":"3rd Grade",
+      "Picture":"https://static.wikia.nocookie.net/jujutsu-kaisen/images/7/7a/Nobara_Kugisaki.png"
+    },
+    {
+      "No":"4",
+      "Name":"Satoru Gojo",
+      "Age":"28",
+      "Birthday":"December 7th",
+      "Height":"190 cm",
+      "Grade":"Special Grade",
+      "Picture":"https://static.wikia.nocookie.net/jujutsu-kaisen/images/5/53/Satoru_Gojo_%28Full%29.png"
+    },
+    {
+      "No":"5",
+      "Name":"Kento Nanami",
+      "Age":"28",
+      "Birthday":"July 3rd",
+      "Height":"184 cm",
+      "Grade":"1st Grade",
+      "Picture":"https://static.wikia.nocookie.net/jujutsu-kaisen/images/9/96/Kento_Nanami_%28Volume_11%29.png"
+    },
+    {
+      "No":"6"
+      ,"Name":"Suguru Geto",
+      "Age":"27",
+      "Birthday":"February 3rd",
+      "Height":"190 cm",
+      "Grade":"Special Grade",
+      "Picture":"https://static.wikia.nocookie.net/jujutsu-kaisen/images/6/61/Suguru_Geto.png"},
+    {
+      "No":"7",
+      "Name":"Yuta Okkotsu",
+      "Age":"17",
+      "Birthday":"March 7th",
+      "Height":"175 cm",
+      "Grade":"Special Grade",
+      "Picture":"https://static.wikia.nocookie.net/jujutsu-kaisen/images/7/79/Yuta_Okkotsu_%28Chapter_137%29.png"
+    },
+    {
+      "No":"8",
+      "Name":"Panda",
+      "Age":"16",
+      "Birthday":"March 5th",
+      "Height":"200 cm",
+      "Grade":"2nd Semi-Grade",
+      "Picture":"https://static.wikia.nocookie.net/jujutsu-kaisen/images/2/2b/Panda_%28Anime_2%29.png"
+    },
+    {
+      "No":"9",
+      "Name":"Sukuna",
+      "Age":"0",
+      "Birthday":"Unknown",
+      "Height":"173 cm",
+      "Grade":"Special Grade",
+      "Picture":"https://static.wikia.nocookie.net/jujutsu-kaisen/images/8/85/Sukuna_%28Chapter_117%29.png"
+    },
+    {
+      "No":"10",
+      "Name":"Mahito",
+      "Age":"0",
+      "Birthday":"Unknown",
+      "Height":"179 cm",
+      "Grade":"Unregistered Cursed Special Grade",
+      "Picture":"https://static.wikia.nocookie.net/jujutsu-kaisen/images/3/3e/Mahito.png"
+    },
+    {
+      "No":"11",
+      "Name":"Choso",
+      "Age":"0",
+      "Birthday":"Unknown",
+      "Height":"180 cm",
+      "Grade":"Unregistered Cursed Special Grade",
+      "Picture":"https://static.wikia.nocookie.net/jujutsu-kaisen/images/4/49/Choso.png"
+    }
+  ]
 }
